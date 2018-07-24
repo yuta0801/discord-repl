@@ -1,0 +1,14 @@
+{
+  "name": "discord-repl",
+  "version": "1.0.0",
+  "description": "Node.js repl in Discord",
+  "main": "index.js",
+  "author": "yuta0801",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0"
+  },
+  "repository": "https://github.com/yuta0801/discord-repl.git"
+}
